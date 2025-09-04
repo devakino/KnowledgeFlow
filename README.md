@@ -1,4 +1,4 @@
-# 📚 Learning Journey: NLP to RAG
+# 📚 Learning Journey at AkinoLabs
 
 ## 1️⃣ Learning What is NLP (Natural Language Processing)
 - Basics of NLP  
