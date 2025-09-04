@@ -1,39 +1,61 @@
-1st Learning what is NLP(Nautral Language Processing)
-          Basics of NLP
-          Working of NLP
-          Each NLP Process in detail
+# 📚 Learning Journey: NLP to RAG
 
-2nd Learning about the Limitations of RNN(Recurrent Neural Network) & LSTM(Long Short Term Memory Networks)
+## 1️⃣ Learning What is NLP (Natural Language Processing)
+- Basics of NLP  
+- Working of NLP  
+- Each NLP Process in detail  
 
-3rd Learning the needs of Transformers
-          What are transformers
-          Need of transformers
-          Concept of Self Attention(Query, Key, Vector)
-          Architecture of Transformers(Encoding-Decoding Architecture)
+---
 
-4th Learning WHat is Chunking
-          Types of Chunking
-          Chunking Strategies
-          
-5th Learning What is Embedding
-          Text Embedding
-          Vector Embedding
-          Contextual Embedding
-          Text/Sentence EMbedding
+## 2️⃣ Learning about the Limitations of RNN (Recurrent Neural Network) & LSTM (Long Short Term Memory Networks)
 
-6th Learning What are vector databases/vector stores
+---
 
-7th Learning the Vector Search Strategies
+## 3️⃣ Learning the Needs of Transformers
+- What are Transformers  
+- Need of Transformers  
+- Concept of Self Attention (Query, Key, Vector)  
+- Architecture of Transformers (Encoding-Decoding Architecture)  
 
-8th Learning What are LLMs(Large Language Models)
+---
 
-9th Learning What is GPT(Generative Pre-Trained Models)
+## 4️⃣ Learning What is Chunking
+- Types of Chunking  
+- Chunking Strategies  
 
-10th Learning Introduction to RAG(Retrieval Augmented Generation)
+---
 
-11th Learning Introduction to LangChain(Youtube Playlist "Harish Neel")
-          Chat Models
-          Prompt Templates
-          Chains
-          RAGs
-          Agents
+## 5️⃣ Learning What is Embedding
+- Text Embedding  
+- Vector Embedding  
+- Contextual Embedding  
+- Text/Sentence Embedding  
+
+---
+
+## 6️⃣ Learning What are Vector Databases / Vector Stores
+
+---
+
+## 7️⃣ Learning the Vector Search Strategies
+
+---
+
+## 8️⃣ Learning What are LLMs (Large Language Models)
+
+---
+
+## 9️⃣ Learning What is GPT (Generative Pre-Trained Models)
+
+---
+
+## 🔟 Learning Introduction to RAG (Retrieval Augmented Generation)
+
+---
+
+## 🔁 Learning Introduction to LangChain (YouTube Playlist: *Harish Neel*)
+- Chat Models  
+- Prompt Templates  
+- Chains  
+- RAGs  
+- Agents  
