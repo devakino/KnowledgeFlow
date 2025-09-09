@@ -58,4 +58,10 @@
 - Prompt Templates  
 - Chains  
 - RAGs  
-- Agents  
+- Agents
+
+## 1️⃣2️⃣ Implementation Projects
+- WikiExplorer 
+- WebSummarizer
+- Web_QA-RAG-System
+- Testing Gemini Tools  
