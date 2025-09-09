@@ -60,7 +60,7 @@
 - RAGs  
 - Agents
 
-## 1️⃣2️⃣ Implementation Projects
+## 1️⃣1️⃣ Implementation Projects
 - WikiExplorer 
 - WebSummarizer
 - Web_QA-RAG-System
