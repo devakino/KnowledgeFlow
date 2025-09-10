@@ -67,7 +67,7 @@
 - Testing Gemini Tools
 
 ## 1️⃣2️⃣ Learning Introduction to LangGraph (YouTube Playlist: *Harish Neel*)
--Introduction(reACT Agents)
--Reflection System Agents
--Reflexion System Agents
--StateGraph
+- Introduction(reACT Agents)
+- Reflection System Agents
+- Reflexion System Agents
+- StateGraph
