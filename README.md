@@ -67,10 +67,6 @@
 - Testing Gemini Tools
 
 ## 1️⃣2️⃣ Learning Introduction to LangGraph (YouTube Playlist: *Harish Neel*)
-- WikiExplorer 
-- WebSummarizer
-- Web_QA-RAG-System
-- Testing Gemini Tools
 - Introduction(reACT Agents)
 - Reflection System Agents
 - Reflexion System Agents
