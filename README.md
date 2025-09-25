@@ -76,3 +76,6 @@
 - Human In The Loop
 - RAG using LangGraph
 - Multi Agent Architecture
+
+## 1️⃣3️⃣ Capstone Project
+- Para-Assistant(Chatbot Using LangGraph)
